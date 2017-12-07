@@ -1,0 +1,14 @@
+user\follower	aziz	moldir	ermina	malika	mukan	aliya	gaukhar	banu	adilzhan	zhanel	rauan	alina	dauren
+aziz	0	1	0	1	0	1	0	0	1	1	0	0	0
+moldir	1	0	1	1	1	1	0	1	1	1	0	1	0
+ermina	0	1	0	1	0	1	1	0	1	1	0	1	0
+malika	1	1	1	0	1	1	1	1	0	1	0	1	0
+mukan	0	1	0	1	0	1	1	0	0	1	0	0	0
+aliya	1	1	1	1	1	0	0	0	0	1	0	1	0
+gaukhar	0	0	1	1	1	0	0	1	0	0	0	0	0
+banu	0	0	0	1	1	0	1	0	1	0	0	0	0
+adilzhan	0	1	1	0	0	0	0	1	0	1	0	0	0
+zhanel	1	1	1	1	1	1	0	0	1	0	0	1	0
+rauan	0	0	0	0	0	0	0	0	0	0	0	0	0
+alina	0	0	1	1	0	1	0	0	0	1	0	0	0
+dauren	0	0	0	0	0	1	0	0	0	0	0	0	0
