@@ -5,7 +5,7 @@
  3. Открыть файл run.bat
  
  Если не получилось с архивом, то откройте cmd
- sets path c:\Python33
+ setx path c:\Python33
 
 
  Отправить задачи необходимо на почту yesdauren@gmail.com
